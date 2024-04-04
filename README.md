@@ -1,4 +1,4 @@
-This is course project is made by Valeriia Sitnikova and Alexander Ivanov.
+This is course project is made by Alexander Ivanov and Valeriia Sitnikova.
 
 It is a piece of code to control the robotic platform by the fish that swimms in the pool.
 
